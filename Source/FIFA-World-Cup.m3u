@@ -1,0 +1,14 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-name="世界杯-咪咕" tvg-logo="https://dd-static.jd.com/ddimg/jfs/t1/197748/9/29986/33159/638241e1E93fbeef6/ddb2bd310833020b.jpg",世界杯-咪咕
+http://39.135.41.243/PLTV/88888888/224/3221226716/index.m3u8
+#EXTINF:-1 tvg-name="世界杯" tvg-logo="https://dd-static.jd.com/ddimg/jfs/t1/197748/9/29986/33159/638241e1E93fbeef6/ddb2bd310833020b.jpg",世界杯
+https://pull-flv-spe-l11.douyinliving.com/fantasy/stream-112047258958561974_spuhd.flv?_neptune_token=MIGpBAx1OqFI7-Z_FU4yOO0EgYYKFMy29e3drdoFwsQenYHJvJIx14XrEfg4BcDWxVSYj-5YGJeuEbpKcFBdbwkBFlXB-JWn1QBSokWGYlDBFKWhtxcapT8-Sj0prLzg9c7wOsW_I0JVzwimkxHhGz-jhtBsYI8FIahkDJAktTcm_NsDx2yXeziA3yc-Vmsv1x4h_WPC8qRONQQQjK1AOBhMbvvIn59adgyX5w&expire=1669736749&sign=19651b3b46623363b51138300718fa9c
+#EXTINF:-1 tvg-name="世界杯孙继海解说" tvg-logo="https://dd-static.jd.com/ddimg/jfs/t1/197748/9/29986/33159/638241e1E93fbeef6/ddb2bd310833020b.jpg",世界杯孙继海解说
+http://pull-hls-spe-l26.douyincdn.com/fantasy/stream-400278070981821110_uhd.m3u8?_neptune_token=MIGZBAwuXbURIkaOqRlJZ58Ed6bw91QcCXgHqAoPhuwdILZTBDs3zFEr6UOID15Kr-Hr047OkIR8aOHP9MRlinB4lgMdSJsiUFwcwga1-OpZvIacBFew8Ec8hJ1TBfztV_FojO3WnA-IpbjYJ1VXA0ynG5_qGW3Kisjd5xAUPWk-BXlPuQqTd0F6BBBKN0dVYvUvYYY5ZqoY_wfG&expire=63862919&sign=fc0266e81415a032264536cb94b17180
+#EXTINF:-1 tvg-name="世界杯陈宁解说" tvg-logo="https://dd-static.jd.com/ddimg/jfs/t1/197748/9/29986/33159/638241e1E93fbeef6/ddb2bd310833020b.jpg",世界杯陈宁解说
+http://pull-hls-spe-l26.douyinliving.com/fantasy/stream-400277712886825654_hd.m3u8?_neptune_token=MIGZBAxD-dONTBeo5F49rAsEdzEe9DjVvONLcMiKJVsVhB1sVDEn5jBBSZt8141Qmu9b6al8aC7RAMyl5zwLlAzLdXPuNXVahpxuUwmESGCQmgiBEUlHkngt-QsymRUG28srB2tkJfeGTH-q4qhA7jnekoS5rMD0-5Cm2sxdr_WVuC4xqGU7Qo9VBBB-WW2Or8IY2pUyPiGjFrqO&expire=63862919&sign=9ae9dd877ad95b4d0448f906fa5517e0
+#EXTINF:-1 tvg-name="世界杯CCTV解说" tvg-logo="https://dd-static.jd.com/ddimg/jfs/t1/197748/9/29986/33159/638241e1E93fbeef6/ddb2bd310833020b.jpg",世界杯CCTV解说
+http://pull-hls-spe-l11.douyincdn.com/fantasy/stream-112047675970159286_hd.m3u8?_neptune_token=MIGZBAwyA7JHsPSVmPyZfkUEd2R3KPkdX_vFUTA-RclRTG08AoMWK8ORhU3gt-ut95mwjN0QQCuxMC6PAT8Iwhd5AslDFBoJRXSY5opAdXo1payWt6Y0tk2pOXZ6d8LOhOGe-g8pCSwmKhXdtWegQy8HvBkkK5Vj0KOGWVh_X0vOr8ipK47ItUXSBBDCBuzH_1DD4jyeRSbwfAFF&expire=1669736729&sign=cb891ea224f3a0725307c763a632f40e
+#EXTINF:-1 tvg-name="世界杯无障碍字幕" tvg-logo="https://dd-static.jd.com/ddimg/jfs/t1/197748/9/29986/33159/638241e1E93fbeef6/ddb2bd310833020b.jpg",世界杯无障碍字幕
+http://pull-hls-spe-l11.douyinliving.com/fantasy/stream-688508946629526198_hd.m3u8?_neptune_token=MIGZBAwgtiMNhCUALYxfbXkEd2DJYRS470Uj0XXE4qmt3d8dJJBtxBtEN4vMheJcEjIde5ETG5ugmgBQeOMoNfIIZr3408Uqz02qGCfxjnjYp70q_GM0zjmvufVB0yeQnzeN2fE4OyixR-w_XUclGGhDfKIlJM9ikqiikGx7jg9CDjO2nZTYaEN6BBDDZkG9Qio211MHgaglJV61&expire=1669736729&sign=d8c91137adb24a53c938aff592a617e2
